@@ -1,1 +1,7 @@
+text
 
+flask
+openai
+python-dotenv
+gunicorn
+requests
